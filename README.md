@@ -1,6 +1,6 @@
 # 🌍 Tourism Explorer - Hackathon Project
 
-Welcome to the **Tourism Explorer**, a React-based interactive web application built specifically for a Hackathon. Out of the three problem statements provided, we chose the **Tourism Explorer** topic to build a seamless, smart, and interactive platform for travelers.
+Welcome to the **Tourism Explorer**, a React-based interactive web application built specifically for a Hackathon. Out of the three problem statements provided, we chose the **Tourism Explorer** topic. Our goal was to build a seamless, smart, and interactive platform that makes travel planning effortless and engaging.
 
 ## 👨‍💻 Author Details
 
@@ -14,19 +14,31 @@ Welcome to the **Tourism Explorer**, a React-based interactive web application b
 
 ---
 
+## 📒 Project Summary
+
+Tourism Explorer is an intelligent destination discovery module. It allows users to search any city in the world, or use their current GPS location, to instantly view top attractions, museums, and parks. By integrating Geoapify for real-time location data and mapping, coupled with an AI Travel Assistant (Llama 3), this project acts as a comprehensive, one-stop-trip-planner.
+
+## 🎸 Interface & WX (Design Experience)
+
+	- **Dynamic Hero Section:** A visually striking, gradient-layered world map background that immediately sets the travel theme, housing a global search bar for instant navigation.
+	- **Dual-View Controls:** Users can seamlessly toggle between a rich **List View** of attraction cards and an immersive **Map View** to understand their spatial surroundings.
+	- **Actionable Attraction Cards:** Beautifully styled cards that allow users to bookmark places into their personalized Trip Itinerary drawer.
+	- **Contextual AI Chat overlay:** A sleek, floating modal where the AIAssistant (aware of the user's current viewed city) provides instant, factual travel advice, hidden gems, and food recommendations.
+	- **Smart Category Filters:** Button-pill filters to instantly sort attractions by Landmarks, Museums, Parks, or Historic sites.
+
+---
+
 ## 🚀 Key Features
 
-	- **Smart AI Travel Assistant:** Integrated AI Assistant (powered by OpenRouter & Llama 3) that acts as your personal travel guide, helping you discover itineraries, hidden gems, and local food.
-	- **Interactive Mapping:** Powered by Geoapify to fetch tourist sights, museums, parks, and historic landmarks instantly around any location globally.
-	- **GPS Location Tracking:** One-click feature to instantly find attractions near your current physical location.
-	- **Trip Itinerary Builder:** Save and bookmark places to create your custom travel itinerary seamlessly.
-	- **Dual View Modes:** Effortlessly switch between an immersive Interactive Map View and a detailed List View.
-	- **Dynamic Filtering:** Filter attractions by Landmarks, Museums, Parks, or Historic sites.
+	- **AI Travel Assistant:** Powered by OpenRouter & Llama 3.
+	- **Interactive Mapping: ** Powered by Geoapify to fetch points of interest.
+	- **GPS Location Tracking:** One-click hardware location geocoding.
+	- **Trip Itinerary Builder:** Bookmarking system for building a custom trip.
 
-## 🚀️ Technology Stack
+## 🟠 Technology Stack
 
 	- **Frontend:** React.js, Vite, Tailwind CSS
-	- **APIs:** Geoapify (Geocoding & Places), OpenRouter AI API
+	- **APIs:** Geoapify (Geocoding, Places, & Maps), OpenRouter AI (LLM)
 	- **Icons:** Lucide React
 
 ## 💦 Setup & Execution
