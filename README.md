@@ -1,4 +1,8 @@
 <div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=Tourismexplorer&fontSize=50&animation=twinkling&fontAlignY=40" width="100%" />
+</div>
+
+<div align="center">
   <img src="https://img.icons8.com/color/96/000000/earth-globe.png" alt="Tourism Explorer Logo"/>
   <h1>🌍 Tourism Explorer</h1>
   <p><strong>A Next-Generation Intelligent Destination Discovery Platform</strong></p>
